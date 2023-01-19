@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html>
 <body>
+    <h1>Structure général du projet</h1>
+    <h2>Partie A</h2>
+    <img src="./images/img_SG1.png" height="400" width="auto">
+    <h2>Partie B, C et D</h2>
+    <img src="./images/img_SG2.png" height="400" width="auto">
+    <h2>Client SOAP & RestFul</h2>
+    <img src="./images/img_SG3.png" height="400" width="auto">
+    <h2>Sérialisation d'un objet java, desérialisation d'un fichie XML, generation d'un fichie XML, serveur SOAP & RestFul</h2>
+    <img src="./images/img_SG4.png" height="400" width="auto">
     <h2>A1- Structure graphique de l’arbre XML</h2>
     <img src="./images/img_A1.png" height="400" width="auto">
     <h2>A2- Structure DTD</h2>
