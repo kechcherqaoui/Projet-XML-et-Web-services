@@ -10,6 +10,7 @@
     <img src="./images/img_SG3.png" height="400" width="auto">
     <h2>Sérialisation d'un objet java, desérialisation d'un fichie XML, generation d'un fichie XML, serveur SOAP & RestFul</h2>
     <img src="./images/img_SG4.png" height="400" width="auto">
+    <h1>Structure détaillé du projet</h1>
     <h2>A1- Structure graphique de l’arbre XML</h2>
     <img src="./images/img_A1.png" height="400" width="auto">
     <h2>A2- Structure DTD</h2>
